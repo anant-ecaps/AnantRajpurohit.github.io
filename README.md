@@ -1,14 +1,13 @@
-# 🌟 Anant Rajpurohit's Portfolio Website 🌟
-
+# My Portfolio Website
 Welcome to my portfolio! This repository contains the code for my personal website, showcasing my work, skills, and achievements. Built with HTML, CSS, and JavaScript, and hosted on GitHub Pages.
 
-## 🔥 Features
+## Features
 - **Interactive Design**: Responsive and engaging user interface.
 - **Projects Showcase**: Detailed sections for key projects.
 - **Skills Overview**: Summary of technical skills.
 - **Contact Information**: Easy ways to connect with me.
 
-## 🛠 Technologies Used
+## Technologies Used
 - **HTML5**
 - **CSS3**
 - **JavaScript**
@@ -18,3 +17,5 @@ Welcome to my portfolio! This repository contains the code for my personal websi
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/anant-ecaps/AnantRajpurohit.github.io.git
+
+## Check out the live version here! http://anant-ecaps.github.io/AnantRajpurohit.github.io/
